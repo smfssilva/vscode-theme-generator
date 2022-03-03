@@ -1,0 +1,21 @@
+{
+    "name": "gosilva",
+    "displayName": "GoSilva",
+    "description": "Silva Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GoSilva",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GoSilva-color-theme.json"
+            }
+        ]
+    }
+}
